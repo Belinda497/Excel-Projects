@@ -4,6 +4,8 @@
 
 This is a dataset for UNICEF Joint Monitoring Programme (JMP) for Water Supply, Sanitation, and Hygiene. The dataset contains estimates on the use of water in 2020. This data analysis project aims to provide insight on the access to water in different countries by analyzing access to water in different areas (national, urban, and rural), looking at population sizes and different income groups.
 
+<img width="1811" height="747" alt="image" src="https://github.com/user-attachments/assets/df4522cb-b841-499c-8c40-82cc639664d8" />
+
 ### Data Sources
 
 Estimates on the use of water dataset: The primary dataset used for this analysis is the "Estimates_on_the_use_of_water_(2020).csv" file, which contains information about each country.
